@@ -1,6 +1,8 @@
 // 27. Remove Element
 // https://leetcode.com/problems/remove-element/
 // Language: cpp
+// Difficulty: Easy
+// Topics: Array, Two Pointers
 
 class Solution {
 public:
